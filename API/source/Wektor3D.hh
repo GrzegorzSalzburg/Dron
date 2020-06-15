@@ -2,4 +2,4 @@
 #include "Wektor.hh"
 
 
-typedef SWektor<double,3> Wektor3D;clear
+typedef SWektor<double,3> Wektor3D;
